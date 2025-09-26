@@ -1,0 +1,2 @@
+Hello, this is my first note!
+Java File I/O is simple and useful.
